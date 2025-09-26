@@ -21,7 +21,7 @@ In a world of expensive, cloud-based AI, this application provides a powerful, p
 
 ## 📹 Live Demo & Setup
 
-See the application in action, from installation to live chat, in this short video walkthrough:
+See the application in action in this short video walkthrough:
 
 **Watch the Demo on YouTube:** [**https://youtu.be/AsCBroOevGA**](https://youtu.be/AsCBroOevGA "null")
 
