@@ -12,7 +12,7 @@ In a world of expensive, cloud-based AI, this application provides a powerful, p
     
 - **💰 One-Time Payment, Own It Forever:** Ditch the expensive monthly subscriptions of SaaS alternatives. A single purchase gives you lifetime access.
     
-- **👑 Full Admin Dashboard:** A fully functional admin dashboard to view usage analytics and manage users (activate/deactivate accounts).
+- **👑 Full Admin Dashboard:** A fully functional admin dashboard to view usage analytics and manage users (activate/deactivate accounts, access control,knowledge base management).
     
 - **🚀 Easy 5-Minute Setup:** Get up and running fast with simple, one-click installation scripts for Windows, macOS, and Linux.
     
