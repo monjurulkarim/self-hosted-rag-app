@@ -19,7 +19,7 @@ In a world of expensive, cloud-based AI, this application provides a powerful, p
 - **🤖 Powered by Free, Open-Source AI:** Natively integrates with Ollama to run powerful, free language models like Llama 3, Gemma, and Mistral on your own hardware.
     
 
-## 📹 Live Demo & Setup
+## 📹 Live Demo
 
 See the application in action in this short video walkthrough:
 
