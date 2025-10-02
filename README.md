@@ -11,6 +11,12 @@ In a world of expensive, cloud-based AI, this application provides a powerful, p
 - **🔒 100% Private & Self-Hosted:** Your documents and conversations are processed locally and never leave your server. It's the ultimate solution for handling sensitive or proprietary information.
     
 - **💰 One-Time Payment, Own It Forever:** Ditch the expensive monthly subscriptions of SaaS alternatives. A single purchase gives you lifetime access.
+
+- ** 💬 Dual Chat Modes for Maximum Flexibility:**
+
+- - Knowledge Base Chat: Build permanent document collections (finance, HR, legal, etc.) and chat with your entire knowledge base. Perfect for team collaboration and recurring reference needs.
+
+- - Quick Document Chat (new): Upload any single document for instant one-time analysis without adding it to your knowledge base. Great for temporary reviews, quick fact-checking, or testing documents before permanent storage. Documents will not be stored in the knowledge base.
     
 - **👑 Full Admin Dashboard:** A fully functional admin dashboard to view usage analytics and manage users (activate/deactivate accounts, access control,knowledge base management).
     
